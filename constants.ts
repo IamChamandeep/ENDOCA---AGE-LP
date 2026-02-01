@@ -38,7 +38,7 @@ export const CONFIG: AppConfig = {
 
   // Dark Overlay: 0.0 (Transparent) se 1.0 (Full Black)
   // Agar text padhne mein dikkat ho, toh ise 0.6 ya 0.7 karein
-  overlayOpacity: 0.05,
+  overlayOpacity: 0.0,
 
   colors: {
     primary: "#8FB392", 
